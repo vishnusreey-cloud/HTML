@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <title>
+        HTML
+    </title>
+</head>
+<body>
+    
+    <!--Syntax of Text Formatting-->
+    
+    <p>This is <b>bold</b> text</p>
+    
+    <p>This is <u>underlined</u> text</p> 
+    
+    <p>This is <i>italic</i> text</p
+    
+    <p>Warning: <strong>Do not touch this button</strong></p>
+    
+    <p>this is <em>very very</em> important</p>
+    
+</body>
+</html>
