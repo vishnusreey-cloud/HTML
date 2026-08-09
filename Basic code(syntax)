@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <title>
+        HTML
+    </title>
+</head>
+<body>
+    <h1>My College</h1>
+    <h2>Computer Science</h2>
+    <h3>Subjects</h3>
+    <h6>COSM,DE,OS,devOps</h6>
+    <h4>Programing</h4>
+    <h5>Java</h5>
+    <h6>Basics</h6>
+</body>
+</html>
