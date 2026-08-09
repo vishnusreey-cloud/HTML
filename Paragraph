@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html lang = "en">
+<head>
+    <meta charset = "UTF-8">
+    <title>
+        HTML
+    </title>
+</head>
+<body>
+    <p>Hello! My name is Vishnusree<br>
+    I live in Hyderabad<br>
+    I love coding<br>
+    <hr>
+    Currently, I am pursuing btech<br>
+    I belong to CSE department
+    </p>
+    
+</body>
+</html>
