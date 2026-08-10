@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
+     <title>Document</title>
+    
+  </head>
+  <body>
+      <h1> Email | Phone Links </h1>
+      <a href = "mailto:hello@example.com?Subject=Hello&body=I%20am%20vishnusree">Email me</a><br>
+      <a href = "tel: +91 1234567895">call me</a><br>
+      <a href = "https:wa.me/1234567892">Whatsapp me</a><br>
+      <a href = "data.pdf">Download data</a>
+  </body>
+</html>
