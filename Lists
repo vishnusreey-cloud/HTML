@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset = "UTF-8">
+    <META name = "viewport" content = "width = device-width, initial scale = 1.0">
+     <title>Document</title>   
+  </head>
+  <body>
+     <ul>
+         <h2>AI Tools</h2>
+         <li>Cluade Ai</li>
+         <li>Gemini Ai</li>
+         <li>Chatgpt</li>         
+     </ul>
+     
+     <ol>
+         <h2>Steps to Register a course</h2>
+         <li>Go to the website</li>
+         <li>Register for program</li>
+         <li>Start live class</li>
+     </ol>
+     <dl>
+         <dt><b>HTML</b></dt>
+         <dd>The Structure of web page</dd>
+         
+         <dt><b>CSS</b></dt>
+         <dd>The styling of web page</dd>
+         
+         <dt><b>JavaScript</b></dt>
+         <dd>The brain of a page</dd>
+     </dl>
+         
+     
+  </body>
+</html>
